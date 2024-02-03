@@ -12,4 +12,4 @@ The Video Processing Service is a component of the [YouTube Web Clone](https://g
 
 ### Architecture
 
-![image](https://github.com/majid-2002/video-processing-service/assets/76196721/220ef515-4ffd-4ddd-ae01-1dfa2c2a6527)
+![Screenshot (120)](https://github.com/majid-2002/video-processing-service/assets/76196721/b5cf950f-f85e-46ea-8fe2-36f29e7caae5)
