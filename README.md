@@ -1,5 +1,3 @@
-Creating comprehensive documentation for a video processing service deployed on Google Cloud Run involves detailing the functionalities, usage, deployment steps, and any relevant information. Below is a template that you can use as a starting point for your documentation. Customize it based on your specific implementation and features.
-
 # Video Processing Service Documentation
 
 ## Overview
