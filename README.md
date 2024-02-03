@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Video Processing Service is a component of the YouTube Web Clone App that handles the processing of uploaded videos. It is deployed on Google Cloud Run and integrates with various Google Cloud services for efficient video processing.
+The Video Processing Service is a component of the [YouTube Web Clone](https://github.com/majid-2002/yt-web-client) App that handles the processing of uploaded videos. It is deployed on Google Cloud Run and integrates with various Google Cloud services for efficient video processing.
 
 ### Features
 
